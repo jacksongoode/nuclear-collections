@@ -9,7 +9,7 @@ This repo contains code for:
 
 <img src=https://github.com/jacksongoode/nuclear-collections/blob/main/top-topics.png  width=50% height=50%>
 
-A sample dataset is also generated and available in this repo at `docs/20230101-20230430_docs.json`.
+A sample dataset is also generated and available in this repo at `docs/2023-01-01_2023-04-30_docs.json`.
 
 ## Processing Steps
 
