@@ -4,7 +4,7 @@
 
 This repo contains code for:
 
-- Generating a mapping between document titles and accession IDs and saving that data `testing.ipynb`.
+- Downloading a mapping between document titles and accession IDs and saving that data `fetching.ipynb`.
 - Basic topic modeling of the documents based on those titles `modeling.ipynb`.
 
 <img src=https://github.com/jacksongoode/nuclear-collections/blob/main/top-topics.png  width=50% height=50%>
